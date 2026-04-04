@@ -13,6 +13,9 @@ DSA/
 ├── problem-2/
 │   ├── solution.py
 │   └── notes.md
+├── problem-3/
+│   ├── solution.py
+│   └── notes.md
 └── README.md
 ```
 
@@ -34,3 +37,4 @@ Change `problem-1` to whichever problem folder you want to run.
 |----|---------|----------|
 | 1  | [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | GeeksForGeeks |
 | 2  | [Armstrong Numbers](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | GeeksForGeeks |
+| 3  | [Count Digits](https://www.geeksforgeeks.org/problems/count-digits5716/1) | GeeksForGeeks |
