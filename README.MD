@@ -35,3 +35,4 @@ Change `problem-1` to whichever problem folder you want to run.
 | 4  | [All Divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | GeeksForGeeks |
 | 5  | [GCD of Two Numbers](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | GeeksForGeeks |
 | 6  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode |
+| 7  | [Sum of All Divisors from 1 to N](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | GeeksForGeeks |
