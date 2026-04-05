@@ -33,3 +33,4 @@ Change `problem-1` to whichever problem folder you want to run.
 | 2  | [Armstrong Numbers](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | GeeksForGeeks |
 | 3  | [Count Digits](https://www.geeksforgeeks.org/problems/count-digits5716/1) | GeeksForGeeks |
 | 4  | [All Divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | GeeksForGeeks |
+| 5  | [GCD of Two Numbers](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | GeeksForGeeks |
