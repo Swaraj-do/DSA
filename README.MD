@@ -37,3 +37,4 @@ Change `problem-1` to whichever problem folder you want to run.
 | 6  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode |
 | 7  | [Sum of All Divisors from 1 to N](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | GeeksForGeeks |
 | 8  | [Unique Prime Factors](https://www.geeksforgeeks.org/problems/prime-factors5052/1) | GeeksForGeeks |
+| 9  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode |
