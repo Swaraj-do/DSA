@@ -40,3 +40,4 @@ Change `problem-1` to whichever problem folder you want to run.
 | 9  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode |
 | 10 | [Find missing number](https://leetcode.com/problems/missing-number/) | LeetCode |
 | 11 | [Linear Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) | GeeksForGeeks |
+| 12 | [Largest Element in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksForGeeks |
