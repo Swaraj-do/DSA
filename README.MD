@@ -43,4 +43,5 @@ Change `problem-1` to whichever problem folder you want to run.
 | 12 | [Largest Element in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksForGeeks |
 | 13 | [Leaders in an Array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | GeeksForGeeks |
 | 14 | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksForGeeks |
-| 15 | [Reverse an array](https://www.hackerrank.com/challenges/arrays-ds/problem) | GeeksForGeeks |
+| 15 | [Reverse an array](https://www.hackerrank.com/challenges/arrays-ds/problem) | Hackerrank |
+| 16 | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | GeeksForGeeks |
